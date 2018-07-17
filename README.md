@@ -2,9 +2,9 @@
 
 |Method | NDCG@5 | NDCG@10 |ERR－IA@5 |ERR－IA@10|
 | ------ | ------ | ------ | ------ | ------ |
-|Policy Gradient | 0| 90 |1|1|
-|Q Learning |1 |100 |1|1|
-|With Baseline | 1|90|1|1|
-|Actor Critic | 1 |90|1|1|
+|Policy Gradient | 0.4164| 0.4558 |0.3257|0.3461|
+|Q Learning |0.3997 |0.4326 |0.3172|0.3346|
+|With Baseline | 0.4182|0.4576|0.3314|0.3469|
+|Actor Critic | 0.3607 |0.4089|0.2849|0.3085|
 |M2DIV | 0.4424 | 0.4852 | 0.3459 | 0.3686 |
 
